@@ -1,6 +1,10 @@
 Ну в общем я не успел нормально сделать, т.к. вольфрам не смог нормально задеплоиться.
 Прилагаю обе версии (Jupyter и Wolfram Notebook)
 
+# Гитхаб
+
+(Ссылка)[https://github.com/ionagamed/inno-bs2-de-assignment] на гитхаб
+
 # Jupyter
 
 Требования
